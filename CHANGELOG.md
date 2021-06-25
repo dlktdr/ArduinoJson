@@ -12,7 +12,7 @@ HEAD
 * Added support for `std::string_view` (issue #1578, PR #1554 by @0xFEEDC0DE64)
 * Fixed warning `definition of implicit copy constructor for 'MsgPackDeserializer' is deprecated because it has a user-declared copy assignment operator`
 * Added `JsonArray::clear()` (issue #1597)
-* Added support for ESP-IDF component build (PR #1562 by @qt1)
+* Added support for ESP-IDF component build (PR #1562 by @qt1, PR #1599 by @andreaskuster)
 
 v6.18.0 (2021-05-05)
 -------
